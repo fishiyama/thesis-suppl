@@ -7,6 +7,8 @@ our method is a kind of mode decomposition with general complex functions.
 thesis is here.
 https://tsukuba.repo.nii.ac.jp/records/2000757
 
+our Julia code works as follows:
+
 time series for analysis. (12 samples)
 
 ![Fig1 timeseries for anaysis](https://user-images.githubusercontent.com/111185366/192537801-fb49c8c7-c94a-47d9-b027-faaf73d3d53d.png)
