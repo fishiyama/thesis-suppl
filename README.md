@@ -1,5 +1,9 @@
 # thesis-suppl
 
+we demonstrate our nonlinear method of time-frequency analysis with a Julia code.
+
+our method is a kind of mode decomposition with general complex functions.
+
 thesis is here.
 https://tsukuba.repo.nii.ac.jp/records/2000757
 
