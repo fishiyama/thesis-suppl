@@ -17,7 +17,7 @@ obtained results.
 
 ![Fig2 obtained results](https://user-images.githubusercontent.com/111185366/192537829-617fd562-6fa0-4766-80ac-1178ae0e1245.png)
 
-no.1 backgound noise, no.2&3 frequency of sinusoidal term, no.4 constant term 0.01
+no.1 backgound noise, no.2&3 frequency of sinusoidal term frq=0.1, no.4 constant term amp=0.01
  
 you will find following values with runnning our code.
 ![image](https://user-images.githubusercontent.com/111185366/193454046-6604d2aa-f803-40c6-88f4-d7c13eb85da3.png)
