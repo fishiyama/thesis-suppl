@@ -1,6 +1,6 @@
 # thesis-suppl
 
-supplemental code tutorial.jl for my thesis https://tsukuba.repo.nii.ac.jp/records/2000757 
+### supplemental code [tutorial.jl](https://github.com/fishiyama/thesis-suppl/blob/main/tutorial.jl) for my thesis https://tsukuba.repo.nii.ac.jp/records/2000757.
 
 we demonstrate our nonlinear method of time-frequency analysis with a Julia code.
 
