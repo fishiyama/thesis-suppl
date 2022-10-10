@@ -21,5 +21,6 @@ no.1 backgound noise, no.2&3 frequency of sinusoidal term frq=0.1, no.4 constant
 you will find following values with runnning our code.
 ![image](https://user-images.githubusercontent.com/111185366/193454046-6604d2aa-f803-40c6-88f4-d7c13eb85da3.png)
 please remind the "theoretical limit of time-frequency resolution", and compare it with this code.
-which do you think is the reality? our code is real, and please find the truth against written textures.
+which do you think is the reality? our code is real (if you donot believe, please run the code here), 
+and please find the truth against written textures.
 the reaon is written in my thesis. thanks.
