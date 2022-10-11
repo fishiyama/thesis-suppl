@@ -20,4 +20,4 @@ no.1 backgound noise, no.2&3 frequency of sinusoidal term frq=0.1, no.4 constant
  
 you will find following values with runnning our code.
 ![image](https://user-images.githubusercontent.com/111185366/193454046-6604d2aa-f803-40c6-88f4-d7c13eb85da3.png)
-please remind the "theoretical limit of time-frequency resolution", and compare it with this code.
+please compare our results with the "theoretical limit of time-frequency resolution" of conventional methods.
