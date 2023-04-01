@@ -22,4 +22,5 @@ you will find following values with runnning our code.
 ![image](https://user-images.githubusercontent.com/111185366/193454046-6604d2aa-f803-40c6-88f4-d7c13eb85da3.png)
 please compare our results with the "theoretical limit of time-frequency resolution" of conventional methods.
 
-related work: https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
+related work: “Maximum Entropy Method without False Peaks with Exact Numerical Equation”, J. Phys.: Conf. Ser., vol. 1438, 012031 (6pp), 2020
+https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
