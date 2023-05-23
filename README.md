@@ -25,4 +25,5 @@ please compare our results with the "theoretical limit of time-frequency resolut
 related work: “Maximum Entropy Method without False Peaks with Exact Numerical Equation”, J. Phys.: Conf. Ser., vol. 1438, 012031 (6pp), 2020
 https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
 
-![qrcode_github com](https://github.com/fishiyama/thesis-suppl/assets/111185366/cad8c501-eb22-45c6-a431-e44f0821b9d7)
+
+![qrcode_github com](https://github.com/fishiyama/thesis-suppl/assets/111185366/cb0b434e-890b-453b-8ea1-14569bfbce30)
