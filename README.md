@@ -26,4 +26,4 @@ related work: “Maximum Entropy Method without False Peaks with Exact Numerical
 https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
 
 QR for this page
-![qrcode_github com](https://github.com/fishiyama/thesis-suppl/assets/111185366/cb0b434e-890b-453b-8ea1-14569bfbce30)
+![qrcode_github com](https://github.com/user-attachments/assets/c9e5970a-99ba-45f9-8667-b3b2f394adc8)
