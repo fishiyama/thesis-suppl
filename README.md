@@ -27,7 +27,7 @@ related works:
 “Maximum Entropy Method without False Peaks with Exact Numerical Equation”, J. Phys.: Conf. Ser., vol. 1438, 012031 (6pp), 2020
 https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
 
-"Refreshing idea on Fourier analysis," Proc. IEEE CSPA 2025
+"Refreshing idea on Fourier analysis," Proc. 21st IEEE CSPA, pp.1-4, 2025
 https://arxiv.org/abs/2501.03514
 
 QR for this page
