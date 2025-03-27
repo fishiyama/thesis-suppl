@@ -29,6 +29,7 @@ https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
 
 "Refreshing idea on Fourier analysis," Proc. 21st IEEE CSPA, pp.1-4, 2025
 https://arxiv.org/abs/2501.03514
+https://doi.org/10.1109/CSPA64953.2025.10933386
 
 QR for this page
 ![qrcode_github com](https://github.com/user-attachments/assets/c9e5970a-99ba-45f9-8667-b3b2f394adc8)
