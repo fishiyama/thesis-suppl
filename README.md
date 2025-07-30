@@ -27,9 +27,11 @@ related works:
 "Refreshing idea on Fourier analysis," Proc. 21st IEEE CSPA, pp.1-4, 2025
 https://arxiv.org/abs/2501.03514
 https://doi.org/10.1109/CSPA64953.2025.10933386
+``The "theoretical limit of time-frequency resolution in Fourier analysis" is thought to originate in certain mathematical and/or physical limitations. This, however, is not true. The actual origin arises from the numerical (technical) method deployed to reduce computation time. ...''
 
 “Maximum Entropy Method without False Peaks with Exact Numerical Equation”, J. Phys.: Conf. Ser., vol. 1438, 012031 (6pp), 2020
 https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
+``The standard numerical maximum entropy method (MEM) still uses the Yule-Walker equation which contains rough approximation by Walker. The commonly used numerical equation contains additional modifications to reduce calculation cost. Nowadays, we have powerful computers and there is no reason to use the modified equation. ...''
 
 QR for this page
 ![qrcode_github com](https://github.com/user-attachments/assets/c9e5970a-99ba-45f9-8667-b3b2f394adc8)
