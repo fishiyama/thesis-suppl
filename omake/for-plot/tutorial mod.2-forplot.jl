@@ -21,7 +21,8 @@ fs=22;
 figure(tight_layout=true);
 xlim(-0.05,3.05);
 plot([-0.1,3.1],[0,0],label="", color="black");
-plot(t2,ts2, label="sin2πt+0.01");
+# plot(t2,ts2, label="sin2πt+0.01", lw=2);
+plot(t2,ts2, label="0.01+sin2πt", lw=2);
 scatter(t[1:TotN], ts[1:TotN], label="$TotN samples for analysis", color="red", lw=2);
 xlabel("time (s)",fontsize=fs); 
 ylabel("amplitude (arb. unit)",fontsize=fs); 
@@ -183,7 +184,7 @@ LorentzProf(f,iFrq,iAVR,iCAmp) =
     #--------------------- FFT for demo
     yFFT=abs.(fft(ts[1:TotN]))[1:7]/TotN;
     xFFT=0:1:6;
-    bar(xFFT/1.2,yFFT,width=1/1.2,color="#FFFFFF",edgecolor="#000000",label="Fourier");
+    bar(xFFT/1.2,yFFT,width=1/1.2,color="#FFFFFF",edgecolor="#000000",label="Fourier", lw=2);
     #---------------------------
     x = 0:1e-4:0.5;
     for i in 1:M′′
