@@ -26,7 +26,7 @@ plot(t2,ts2, label="0.01+sin2πt", lw=2);
 scatter(t[1:TotN], ts[1:TotN], label="$TotN samples for analysis", color="red", lw=2);
 xlabel("time (s)",fontsize=fs); 
 ylabel("amplitude (arb. unit)",fontsize=fs); 
-xticks(fontsize=fs); yticks(fontsize=fs);
+xticks(fontsize=fs,[0,1,2,3]); yticks(fontsize=fs,[-1,-0.5,0,0.5,1]);
 legend(fontsize=16, loc="upper right"); 
 annotate("(a)",(2.7,0.9),fontsize=16,zorder=6);
 show();
