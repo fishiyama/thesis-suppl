@@ -32,5 +32,12 @@ related works:
 #### https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
 ``The standard numerical maximum entropy method (MEM) still uses the Yule-Walker equation which contains rough approximation by Walker. The commonly used numerical equation contains additional modifications to reduce calculation cost. Nowadays, we have powerful computers and there is no reason to use the modified equation. ...''
 
+applications:
+
+#### "Instantaneous Spectra Analysis of Pulse Series - Application to Lung Sounds with Abnormalities," to appear Proc. 22nd IEEE CSPA.
+#### https://arxiv.org/abs/2602.03680
+``The origin of the "theoretical limit of time-frequency resolution of Fourier analysis" is from its numerical implementation, especially from an assumption of "Periodic Boundary Condition (PBC)," which was introduced a century ago. We previously proposed to replace this condition with "Linear eXtrapolation Condition (LXC)," which does not require periodicity. This feature makes instantaneous spectra analysis of pulse series available, which replaces the short time Fourier transform (STFT). We applied the instantaneous spectra analysis to two lung sounds with abnormalities (crackles and wheezing) and to a normal lung sound, as a demonstration. Among them, crackles contains a random pulse series. ...''
+
+
 QR for this page
 ![qrcode_github com](https://github.com/user-attachments/assets/c9e5970a-99ba-45f9-8667-b3b2f394adc8)
