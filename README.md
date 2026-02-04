@@ -22,7 +22,7 @@ you will find following values with runnning our code.
 ![image](https://user-images.githubusercontent.com/111185366/193454046-6604d2aa-f803-40c6-88f4-d7c13eb85da3.png)
 please compare our results with the "theoretical limit of time-frequency resolution" of conventional methods.
 
-related works: 
+### related works: 
 
 #### "Refreshing idea on Fourier analysis," Proc. 21st IEEE CSPA, pp.1-4, 2025
 #### https://arxiv.org/abs/2501.03514 / https://doi.org/10.1109/CSPA64953.2025.10933386
@@ -32,7 +32,7 @@ related works:
 #### https://iopscience.iop.org/article/10.1088/1742-6596/1438/1/012031
 ``The standard numerical maximum entropy method (MEM) still uses the Yule-Walker equation which contains rough approximation by Walker. The commonly used numerical equation contains additional modifications to reduce calculation cost. Nowadays, we have powerful computers and there is no reason to use the modified equation. ...''
 
-applications:
+### applications:
 
 #### "Instantaneous Spectra Analysis of Pulse Series - Application to Lung Sounds with Abnormalities," to appear Proc. 22nd IEEE CSPA.
 #### https://arxiv.org/abs/2602.03680
