@@ -34,7 +34,7 @@ please compare our results with the "theoretical limit of time-frequency resolut
 
 ### applications:
 
-#### "Instantaneous Spectra Analysis of Pulse Series - Application to Lung Sounds with Abnormalities," to appear Proc. 22nd IEEE CSPA.
+#### "Instantaneous Spectra Analysis of Pulse Series - Application to Lung Sounds with Abnormalities," Proc. 22nd IEEE CSPA, pp.41-44, 2026.
 #### https://arxiv.org/abs/2602.03680 / https://doi.org/10.1109/CSPA68262.2026.11517722
 ``The origin of the "theoretical limit of time-frequency resolution of Fourier analysis" is from its numerical implementation, especially from an assumption of "Periodic Boundary Condition (PBC)," which was introduced a century ago. We previously proposed to replace this condition with "Linear eXtrapolation Condition (LXC)," which does not require periodicity. This feature makes instantaneous spectra analysis of pulse series available, which replaces the short time Fourier transform (STFT). We applied the instantaneous spectra analysis to two lung sounds with abnormalities (crackles and wheezing) and to a normal lung sound, as a demonstration. Among them, crackles contains a random pulse series. ...''
 
